@@ -4,8 +4,12 @@
 ### Assignment: Week 1: Homework Assignment
 #### Description: Exchange Rate and Return Analysis
 
+## Question 1
+
 1. Download and analyze excess returns of S&P 500
 - Calculate continuous daily excess returns of SP500 (“^GSPC”) for the period from 1/1/2014 until 12/31/2014 using overnight Fed Funds rates as risk-free rates.
+
+## Question 2
 
 2. Download and analyze exchange rates
 
